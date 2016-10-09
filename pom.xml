@@ -38,7 +38,7 @@
      	<dependency>
     		<groupId>com.github.CarolineRichardson</groupId>
     		<artifactId>CT417-StudentRegistration-Part1</artifactId>
-   		    <version>366507c630</version>
+   		    <version>a6b2a141c7</version>
 		</dependency> 
     </dependencies>
     <properties>
